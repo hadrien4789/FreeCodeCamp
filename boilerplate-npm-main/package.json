@@ -14,7 +14,7 @@
     "url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
   },
   "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A project that does something awesome",
   "keywords": [ "descriptive", "related", "words" ],
   "license": "MIT"
