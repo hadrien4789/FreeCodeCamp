@@ -11,9 +11,8 @@
   "repository": {
     "author": "Hadrien Poquet",
     "type": "git",
-    "url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
+    "url": "https://github.com/hadrien4789/FreeCodeCamp/tree/main/boilerplate-npm-main"
   },
-  "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
   "version": "0.0.1",
   "description": "A project that does something awesome",
   "keywords": [ "descriptive", "related", "words" ],
