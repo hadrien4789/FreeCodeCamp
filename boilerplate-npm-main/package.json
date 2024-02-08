@@ -17,5 +17,6 @@
   "version": "1.0.0",
   "license": "ISC",
 
-  "description": "A project that does something awesome"
+  "description": "A project that does something awesome",
+  "keywords": [ "descriptive", "related", "words" ]
 }
