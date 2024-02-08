@@ -1,2 +1,0 @@
-# FreeCodeCamp
-Back End tutorial
